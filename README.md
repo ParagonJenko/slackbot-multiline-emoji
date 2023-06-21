@@ -26,3 +26,9 @@ X X X
 
 1. You need to go to your {workspace}.slack.com/customize/emoji and upload all sections of your emoji.
 2. You then need to go to {workspace}.slack.com/customize/slackbot sedction and enter the string generated.
+
+## WHY IS THIS THE END OF THIS?
+
+I've attempted to automate this to be as good as I want it to, but the library I found for splitting images wasn't very good - and really that's a key bit.
+
+Sadly my adventure back into Python is over and I'll make this in another language with another library unless I want to come back and debug the library.
